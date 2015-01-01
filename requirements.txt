@@ -1,0 +1,7 @@
+MySQL-python==1.2.5
+SQLAlchemy==0.9.8
+Scrapy==0.24.4
+alembic==0.7.2
+bcrypt==1.1.0
+cssselect==0.9.1
+lxml==3.4.1
