@@ -8,6 +8,7 @@ Basic scraper for custom forums (currently dou.ua only).
 2. Activate it: `source bin/activate`
 3. Install requirements: `pip install -r requirements.txt`
 4. Create db, add details to settings.py and alembic.ini
+5. Run migrations `alembic upgrade head`
 
 ## Usage
 
